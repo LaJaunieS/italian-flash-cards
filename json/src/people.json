@@ -1,0 +1,73 @@
+{
+	"type": "people",
+	"fullTitle": "people",
+	"vocabArray": [
+		{
+			"i": "persona",
+			"e": "person",
+			"keyword": "persona"
+		},
+		{
+			"i": "uomo",
+			"e": "man",
+			"keyword": "uomo"
+		},
+		{
+			"i": "donna",
+			"e": "woman",
+			"keyword": "uomo"
+		},
+		{
+			"i": "ragazza",
+			"e": "girl",
+			"keyword": "ragazza"
+		},
+		{
+			"i": "ragazzo",
+			"e": "boy",
+			"keyword": "ragazzo"
+		},
+		{
+			"i": "moglie",
+			"e": "wife",
+			"keyword": "mogilie"
+		},
+		{
+			"i": "marito",
+			"e": "husband",
+			"keyword": "marito"
+		},
+		{
+			"i": "figlio",
+			"e": "son",
+			"keyword": "figlio"
+		},
+		{
+			"i": "figlia",
+			"e": "daughter",
+			"keyword": "figlia"
+		},
+		{
+			"i": "fratello",
+			"e": "brother",
+			"keyword": "fratello"
+		},
+		{
+			"i": "sorella",
+			"e": "sister",
+			"keyword": "sorella"
+		},
+		{
+			"i": "madre",
+			"e": "mother",
+			"keyword": "madre"
+		},
+		{
+			"i": "padre",
+			"e": "father",
+			"keyword": "padre"
+		}
+		
+
+	]
+}

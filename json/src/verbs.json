@@ -67,6 +67,16 @@
                     "descriptions": [ "io ho", "tu hai", "lui/lei ha", "noi abbiamo", "voi avete", "loro hanno"]
                 }
             ]
+        },
+        {
+            "i": "amare",
+            "e": "to love",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io amo", "tu ami", "lei/lui ama", "noi amiamo", "voi amate", "loro amano" ] 
+                }
+            ]
         }
     ]
 }
