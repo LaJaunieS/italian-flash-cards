@@ -117,7 +117,7 @@
               };
                            
         $scope.switchToEnglish = function() {
-            document.getElementById('showButton').textContent = "fr";
+            document.getElementById('showButton').textContent = "it";
             $scope.language = 1;
         };
         $scope.switchToItalian = function() {
