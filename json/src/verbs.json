@@ -71,10 +71,33 @@
         {
             "i": "amare",
             "e": "to love",
+            "keyword": "amare",
             "definitions": [
                 {
                     "title": "present tense",
                     "descriptions": [ "io amo", "tu ami", "lei/lui ama", "noi amiamo", "voi amate", "loro amano" ] 
+                }
+            ]
+        },
+        {
+            "i": "cucinare",
+            "e": "to cook/ prepare",
+            "keyword": "cucinare",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io cucino", "tu cucini", "lei/lui cucina", "noi cuciniamo", "voi cucinate", "loro cucinano" ] 
+                }
+            ]
+        },
+        {
+            "i": "tagliare",
+            "e": "to cut/ slice",
+            "keyword": "tagliare",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io taglio", "tu tagli", "lei/lui taglia", "noi tagliamo", "voi tagliate", "loro tagliano" ] 
                 }
             ]
         }

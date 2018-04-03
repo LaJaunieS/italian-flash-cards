@@ -3,67 +3,67 @@
 	"fullTitle": "people",
 	"vocabArray": [
 		{
-			"i": "persona",
+			"i": "la persona",
 			"e": "person",
 			"keyword": "persona"
 		},
 		{
-			"i": "uomo",
+			"i": "l&#8217;uomo",
 			"e": "man",
 			"keyword": "uomo"
 		},
 		{
-			"i": "donna",
+			"i": "la donna",
 			"e": "woman",
-			"keyword": "uomo"
+			"keyword": "donna"
 		},
 		{
-			"i": "ragazza",
+			"i": "la ragazza",
 			"e": "girl",
 			"keyword": "ragazza"
 		},
 		{
-			"i": "ragazzo",
+			"i": "il ragazzo",
 			"e": "boy",
 			"keyword": "ragazzo"
 		},
 		{
-			"i": "moglie",
+			"i": "la moglie",
 			"e": "wife",
-			"keyword": "mogilie"
+			"keyword": "moglie"
 		},
 		{
-			"i": "marito",
+			"i": "il marito",
 			"e": "husband",
 			"keyword": "marito"
 		},
 		{
-			"i": "figlio",
+			"i": "il figlio",
 			"e": "son",
 			"keyword": "figlio"
 		},
 		{
-			"i": "figlia",
+			"i": "la figlia",
 			"e": "daughter",
 			"keyword": "figlia"
 		},
 		{
-			"i": "fratello",
+			"i": "il fratello",
 			"e": "brother",
 			"keyword": "fratello"
 		},
 		{
-			"i": "sorella",
+			"i": "la sorella",
 			"e": "sister",
 			"keyword": "sorella"
 		},
 		{
-			"i": "madre",
+			"i": "la madre",
 			"e": "mother",
 			"keyword": "madre"
 		},
 		{
-			"i": "padre",
+			"i": "la padre",
 			"e": "father",
 			"keyword": "padre"
 		}
