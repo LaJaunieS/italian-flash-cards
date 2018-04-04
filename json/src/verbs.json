@@ -86,7 +86,7 @@
             "definitions": [
                 {
                     "title": "present tense",
-                    "descriptions": [ "io cucino", "tu cucini", "lei/lui cucina", "noi cuciniamo", "voi cucinate", "loro cucinano" ] 
+                    "descriptions": [ "io cucin&#242;", "tu cucini", "lei/lui cucina", "noi cuciniamo", "voi cucinate", "loro cucinano" ] 
                 }
             ]
         },
@@ -100,6 +100,40 @@
                     "descriptions": [ "io taglio", "tu tagli", "lei/lui taglia", "noi tagliamo", "voi tagliate", "loro tagliano" ] 
                 }
             ]
+        },
+        {
+            "i": "potere",
+            "e": "to be able (can)",
+            "keyword": "potere",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io posso", "tu puoi", "lei/lui pu&#242;", "noi possiamo", "voi potete", "loro possono" ] 
+                }
+            ]
+        },
+        {
+            "i": "dovere",
+            "e": "to have to (must)",
+            "keyword": "dovere",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io devo", "tu devi", "lei/lui deve", "noi dobbiamo", "voi dovete", "loro devono" ] 
+                }
+            ]
+        },
+        {
+            "i": "volere",
+            "e": "to want",
+            "keyword": "volere",
+            "definitions": [
+                {
+                    "title": "present tense",
+                    "descriptions": [ "io voglio", "tu vuoi", "lei/lui vuole", "noi vogliamo", "voi volete", "loro vogliono" ] 
+                }
+            ]
         }
     ]
 }
+    

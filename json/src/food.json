@@ -1,177 +1,178 @@
 {
-	"type": "food",
-	"fullTitle": "food",
-	"vocabArray": [
-		{
-			"i": "il pane",
-			"e": "bread",
-			"keyword": "pane"
-		},
-		{
-			"i": "la mela",
-			"e": "apple",
-			"keyword": "mela"
-		},
-		{
-			"i": "lo zucchero",
-			"e": "sugar",
-			"keyword": "zucchero"
-		},
-		{
-			"i": "il latte",
-			"e": "milk",
-			"keyword": "latte"
-		},
-		{
-			"i": "il caff&#232;",
-			"e": "coffee",
-			"keyword": "cafe"
-		},
-		{
-			"i": "il ciccolato",
-			"e": "chocolate",
-			"keyword": "ciccolato"
-		},
-		{
-			"i": "il biscotto",
-			"e": "biscuit/cookie",
-			"keyword": "biscotto"
-		},
-		{
-			"i": "la tazza",
-			"e": "cup",
-			"keyword": "tazza"
-		},
-		{
-			"i": "la crema",
-			"e": "cream",
-			"keyword": "crema",
-			"definitions": [
-				{
-					"title": "alternates",
-					"descriptions": [ "la panna" ]
-				}
-			]
-		},
-		{
-			"i": "la fragola",
-			"e": "strawberry",
-			"keyword": "fragola"
-		},
-		{
-			"i": "la limone",
-			"e": "lemon",
-			"keyword": "limone"
-		},
-		{
-			"i": "il succo",
-			"e": "juice",
-			"keyword": "succo"
-		},
-		{
-			"i": "il gelato",
-			"e": "ice cream",
-			"keyword": "gelato"
-		},
-		{
-			"i": "la frutta",
-			"e": "fruit",
-			"keyword": "frutta"
-		},
-		{
-			"i": "il piatto",
-			"e": "plate",
-			"keyword": "piatto"
-		},
-		{
-			"i": "il cibo",
-			"e": "food",
-			"keyword": "cibo"
-		},
-		{
-			"i": "la carota",
-			"e": "carrot",
-			"keyword": "carota"
-		},
-		{
-			"i": "il fagiolo",
-			"e": "bean",
-			"keyword": "fagiolo"
-		},
-		{
-			"i": "la torta",
-			"e": "cake",
-			"keyword": "torta"
-		},
-		{
-			"i": "la birra",
-			"e": "beer",
-			"keyword": "birra"
-		},
-		{
-			"i": "la bottiglia",
-			"e": "bottle",
-			"keyword": "bottiglia"
-		},
-		{
-			"i": "il burro",
-			"e": "butter",
-			"keyword": "burro"
-		},
-		{
-			"i": "il manzo",
-			"e": "beef",
-			"keyword": "manzo"
-		},
-		{
-			"i": "la ciotola",
-			"e": "bowl",
-			"keyword": "ciotola"
-		},
-		{
-			"i": "il pollo",
-			"e": "chicekn",
-			"keyword": "pollo"
-		},
-		{
-			"i": "l&#8217;uovo",
-			"e": "egg",
-			"keyword": "uovo"
-		},
-		{
-			"i": "il formaggio",
-			"e": "cheese",
-			"keyword": "formaggio"
-		},
-		{
-			"i": "il pesce",
-			"e": "fish",
-			"keyword": "pesce"
-		},
-		{
-			"i": "il cuoco",
-			"e": "cook",
-			"keyword": "cuoco"
-		},
-		{
-			"i": "la bevanda",
-			"e": "cook (n.)",
-			"keyword": "bevanda"
-		},
-		{
-			"i": "il bicchiere",
-			"e": "drinking glass",
-			"keyword": "bicchiere"
-		},
-		{
-			"i": "la forchetta",
-			"e": "fork",
-			"keyword": "forchetta"
-		},
-		{
-			"i": "l&#8217;aglio",
-			"e": "garlic",
-			"keyword": "aglio"
-		}
-	]
+    "type": "food",
+    "fullTitle": "food",
+    "vocabArray": [
+        {
+            "i": "il pane",
+            "e": "bread",
+            "keyword": "pane"
+        },
+        {
+            "i": "la mela",
+            "e": "apple",
+            "keyword": "mela"
+        },
+        {
+            "i": "lo zucchero",
+            "e": "sugar",
+            "keyword": "zucchero"
+        },
+        {
+            "i": "il latte",
+            "e": "milk",
+            "keyword": "latte"
+        },
+        {
+            "i": "il caff&#232;",
+            "e": "coffee",
+            "keyword": "cafe"
+        },
+        {
+            "i": "il ciccolato",
+            "e": "chocolate",
+            "keyword": "ciccolato"
+        },
+        {
+            "i": "il biscotto",
+            "e": "biscuit/cookie",
+            "keyword": "biscotto"
+        },
+        {
+            "i": "la tazza",
+            "e": "cup",
+            "keyword": "tazza"
+        },
+        {
+            "i": "la crema",
+            "e": "cream",
+            "keyword": "crema",
+            "definitions": [
+                {
+                    "title": "alternates",
+                    "descriptions": [ "la panna" ]
+                }
+            ]
+        },
+        {
+            "i": "la fragola",
+            "e": "strawberry",
+            "keyword": "fragola"
+        },
+        {
+            "i": "la limone",
+            "e": "lemon",
+            "keyword": "limone"
+        },
+        {
+            "i": "il succo",
+            "e": "juice",
+            "keyword": "succo"
+        },
+        {
+            "i": "il gelato",
+            "e": "ice cream",
+            "keyword": "gelato"
+        },
+        {
+            "i": "la frutta",
+            "e": "fruit",
+            "keyword": "frutta"
+        },
+        {
+            "i": "il piatto",
+            "e": "plate",
+            "keyword": "piatto"
+        },
+        {
+            "i": "il cibo",
+            "e": "food",
+            "keyword": "cibo"
+        },
+        {
+            "i": "la carota",
+            "e": "carrot",
+            "keyword": "carota"
+        },
+        {
+            "i": "il fagiolo",
+            "e": "bean",
+            "keyword": "fagiolo"
+        },
+        {
+            "i": "la torta",
+            "e": "cake",
+            "keyword": "torta"
+        },
+        {
+            "i": "la birra",
+            "e": "beer",
+            "keyword": "birra"
+        },
+        {
+            "i": "la bottiglia",
+            "e": "bottle",
+            "keyword": "bottiglia"
+        },
+        {
+            "i": "il burro",
+            "e": "butter",
+            "keyword": "burro"
+        },
+        {
+            "i": "il manzo",
+            "e": "beef",
+            "keyword": "manzo"
+        },
+        {
+            "i": "la ciotola",
+            "e": "bowl",
+            "keyword": "ciotola"
+        },
+        {
+            "i": "il pollo",
+            "e": "chicekn",
+            "keyword": "pollo"
+        },
+        {
+            "i": "l&#8217;uovo",
+            "e": "egg",
+            "keyword": "uovo"
+        },
+        {
+            "i": "il formaggio",
+            "e": "cheese",
+            "keyword": "formaggio"
+        },
+        {
+            "i": "il pesce",
+            "e": "fish",
+            "keyword": "pesce"
+        },
+        {
+            "i": "il cuoco",
+            "e": "cook",
+            "keyword": "cuoco"
+        },
+        {
+            "i": "la bevanda",
+            "e": "cook (n.)",
+            "keyword": "bevanda"
+        },
+        {
+            "i": "il bicchiere",
+            "e": "drinking glass",
+            "keyword": "bicchiere"
+        },
+        {
+            "i": "la forchetta",
+            "e": "fork",
+            "keyword": "forchetta"
+        },
+        {
+            "i": "l&#8217;aglio",
+            "e": "garlic",
+            "keyword": "aglio"
+        }
+    ]
 }
+    
