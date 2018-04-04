@@ -172,6 +172,31 @@
             "i": "l&#8217;aglio",
             "e": "garlic",
             "keyword": "aglio"
+        },
+        {
+            "i": "la colazione",
+            "e": "breakfast",
+            "keyword": "colazione"
+        },
+        {
+            "i": "il pronzo",
+            "e": "lunch",
+            "keyword": "pronzo"
+        },
+        {
+            "i": "la cena",
+            "e": "dinner",
+            "keyword": "cena"
+        },
+        {
+            "i": "la caramella",
+            "e": "candy",
+            "keyword": "caramella"
+        },
+        {
+            "i": "l&#8217;uva",
+            "e": "grape",
+            "keyword": "uva"
         }
     ]
 }
