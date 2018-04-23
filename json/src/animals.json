@@ -1,0 +1,141 @@
+{
+    "type": "animals",
+    "fullTitle": "animals",
+    "vocabArray": [
+        {
+            "i": "l&#8217;animale",
+            "e": "animal",
+            "keyword": "animale"
+        },
+        {
+            "i": "il cane",
+            "e": "dog",
+            "keyword": "cane"
+        },
+        {
+            "i": "il gatto",
+            "e": "cat",
+            "keyword": "gatto"
+        },
+        {
+            "i": "il cavallo",
+            "e": "horse",
+            "keyword": "cavallo"
+        },
+        {
+            "i": "l&#8217;ucello",
+            "e": "bird",
+            "keyword": "ucello"
+        },
+        {
+            "i": "la scimmia",
+            "e": "monkey",
+            "keyword": "scimmia"
+        },
+        {
+            "i": "il topo",
+            "e": "mouse",
+            "keyword": "topo"
+        },
+        {
+            "i": "l&#8217;ourso",
+            "e": "bear",
+            "keyword": "ourso"
+        },
+        {
+            "i": "il leone",
+            "e": "lion",
+            "keyword": "leone"
+        },
+        {
+            "i": "il delfino",
+            "e": "dolphin",
+            "keyword": "delfino"
+        },
+        {
+            "i": "la mucca",
+            "e": "cow",
+            "keyword": "mucca"
+        },
+        {
+            "i": "la farfalla",
+            "e": "butterfly",
+            "keyword": "farfalla"
+        },
+        {
+            "i": "la formica",
+            "e": "ant",
+            "keyword": "formica"
+        },
+        {
+            "i": "l&#8217;anatra",
+            "e": "duck",
+            "keyword": "anatra"
+        },
+        {
+            "i": "l&#8217;elefante",
+            "e": "elephant",
+            "keyword": "elefante"
+        },
+        {
+            "i": "lo squalo",
+            "e": "shark",
+            "keyword": "squalo"
+        },
+        {
+            "i": "il ragno",
+            "e": "spider",
+            "keyword": "ragno"
+        },
+        {
+            "i": "il serpente",
+            "e": "snake",
+            "keyword": "serpente"
+        },
+        {
+            "i": "l&#8217;insetto",
+            "e": "insect",
+            "keyword": "insetto"
+        },
+        {
+            "i": "la mosca",
+            "e": "fly",
+            "keyword": "mosca"
+        },
+        {
+            "i": "la tartaruga",
+            "e": "turtle",
+            "keyword": "tartaruga"
+        },
+        {
+            "i": "il toro",
+            "e": "bull",
+            "keyword": "toro"
+        },
+        {
+            "i": "il lupo",
+            "e": "wolf",
+            "keyword": "lupo"
+        },
+        {
+            "i": "una balena",
+            "e": "whale",
+            "keyword": "balena"
+        },
+        {
+            "i": "il pinguino",
+            "e": "penguin",
+            "keyword": "pinguino"
+        },
+        {
+            "i": "la tigre",
+            "e": "tiger",
+            "keyword": "tigre"
+        },
+        {
+            "i": "l&#8217;ape",
+            "e": "bee",
+            "keyword": "ape"
+        }
+    ]
+}
