@@ -197,6 +197,51 @@
             "i": "l&#8217;uva",
             "e": "grape",
             "keyword": "uva"
+        },
+        {
+            "i": "l&#8217;arancia",
+            "e": "orange",
+            "keyword": "arancia"
+        },
+        {
+            "i": "la marmallata",
+            "e": "jam",
+            "keyword": "marmallata"
+        },
+        {
+            "i": "la bistecca",
+            "e": "steak",
+            "keyword": "bistecca"
+        },
+        {
+            "i": "la limonada",
+            "e": "lemonade",
+            "keyword": "limonada"
+        },
+        {
+            "i": "il succo",
+            "e": "juice",
+            "keyword": "succo"
+        },
+        {
+            "i": "la griglia",
+            "e": "grill",
+            "keyword": "griglia"
+        },
+        {
+            "i": "il gusto",
+            "e": "taste/ flavor",
+            "keyword": "gusto"
+        },
+        {
+            "i": "il ghiacco",
+            "e": "ice",
+            "keyword": "ghiacco"
+        },
+        {
+            "i": "il t&#232;",
+            "e": "tea",
+            "keyword": "te"
         }
     ]
 }
