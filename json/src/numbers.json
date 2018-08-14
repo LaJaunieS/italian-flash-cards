@@ -1,0 +1,57 @@
+{
+    "type": "numbers",
+    "fullTitle": "numbers",
+    "vocabArray": [
+        {
+            "i": "uno",
+            "e": "one",
+            "keyword": "000001 uno"
+        },
+        {
+            "i": "due",
+            "e": "two",
+            "keyword": "000002 due"
+        },
+        {
+            "i": "tre",
+            "e": "three",
+            "keyword": "000003 tre"
+        },
+        {
+            "i": "quattro",
+            "e": "four",
+            "keyword": "000004 quattro"
+        },
+        {
+            "i": "cinque",
+            "e": "five",
+            "keyword": "000005 cinque"
+        },
+        {
+            "i": "sei",
+            "e": "six",
+            "keyword": "000006 sei"
+        },
+        {
+            "i": "sette",
+            "e": "seven",
+            "keyword": "000007 sette"
+        },
+        {
+            "i": "otto",
+            "e": "eight",
+            "keyword": "000008 otto"
+        },
+        {
+            "i": "nove",
+            "e": "nine",
+            "keyword": "000009"
+        },
+        {
+            "i": "deici",
+            "e": "ten",
+            "keyword": "000010 deici"
+        }
+    ]    
+}
+    

@@ -1,0 +1,95 @@
+{
+    "type": "phrases",
+    "fullTitle": "basic phrases",
+    "vocabArray": [
+        {
+            "i": "buongiorno",
+            "e": "good morning",
+            "keyword": "buongiorno"
+        },
+        {
+            "i": "buon pomeriggio",
+            "e": "good afternoon",
+            "keyword": "buon pomeriggio"
+        },
+        {
+            "i": "buonasera",
+            "e": "good evening",
+            "keyword": "buonasera"
+        },
+        {
+            "i": "buononotte",
+            "e": "good night",
+            "keyword": "buononotte"
+        },
+        {
+            "i": "per favore",
+            "e": "please",
+            "keyword": "per favore",
+            "definitions": [
+                {
+                    "title": "alternates",
+                    "descriptions": [ "per piacere" ]
+                }
+            ]
+        },
+        {
+            "i": "grazie",
+            "e": "thank you",
+            "keyword": "grazie"
+        },
+        {
+            "i": "prego",
+            "e": "you're welcome",
+            "keyword": "prego"
+        },
+        {
+            "i": "mi dispiace",
+            "e": "i'm sorry",
+            "keyword": "mi dispiace",
+            "definitions": [
+                {
+                    "title": "alternates",
+                    "descriptions": [ "spiacente", "scusi" ]
+                }
+            ]
+        },
+        {
+            "i": "ciao",
+            "e": "hello",
+            "keyword": "ciao"
+        },
+        {
+            "i": "arrivederci",
+            "e": "goodbye",
+            "keyword": "arrivederci",
+            "definitions": [
+                {
+                    "title": "alternates",
+                    "descriptions": [ "ciao" ]
+                }
+            ]
+        },
+        {
+            "i": "s&#236;",
+            "e": "yes",
+            "keyword": "si"
+        },
+        {
+            "i": "no",
+            "e": "no",
+            "keyword": "no"
+        },
+        {
+            "i": "s&#236; grazie",
+            "e": "yes please",
+            "keyword": "si grazie"
+        },
+        {
+            "i": "piacere",
+            "e": "pleasure/ nice to meet you",
+            "keyword": "piacere"
+        }
+    ]
+}
+    
